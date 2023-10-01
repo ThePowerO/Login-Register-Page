@@ -33,3 +33,4 @@ function Login() {
                             <div>
                                 <input
                                     type='checkbox'
+                                    name='rememberme'
