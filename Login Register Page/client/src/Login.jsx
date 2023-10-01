@@ -8,3 +8,5 @@ import './Login.css'
 
 function Login() {
     const [rememberMeChecked, setRememberMeChecked] = useState(false);
+
+    const toggleRememberMe = () => {
