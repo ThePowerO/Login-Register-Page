@@ -26,3 +26,4 @@ function Login() {
                             <input type="email" name='email' placeholder='Email' required />
                         </div>
                         <div className='input-box'>
+                            <span className='icon'><i className="bi bi-key"></i></span>
