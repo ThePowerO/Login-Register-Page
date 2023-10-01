@@ -18,3 +18,4 @@ function Login() {
             <img className='image-bf' src={ImageBG} />
                 <div className='container'>
                 <div className='container-box'>
+                    <form className='form'>
