@@ -19,3 +19,4 @@ function Login() {
                 <div className='container'>
                 <div className='container-box'>
                     <form className='form'>
+                        <img className='logo-site' src={ImageL} />
