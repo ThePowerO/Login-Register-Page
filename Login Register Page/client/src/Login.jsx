@@ -10,3 +10,4 @@ function Login() {
     const [rememberMeChecked, setRememberMeChecked] = useState(false);
 
     const toggleRememberMe = () => {
+        setRememberMeChecked(!rememberMeChecked);
