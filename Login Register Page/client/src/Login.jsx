@@ -29,3 +29,4 @@ function Login() {
                             <span className='icon'><i className="bi bi-key"></i></span>
                             <input type="password" name='password' placeholder='Password' required />
                         </div>
+                        <div id='settings-create' className="d-flex justify-content-between align-items-center">
