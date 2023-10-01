@@ -34,3 +34,4 @@ function Login() {
                                 <input
                                     type='checkbox'
                                     name='rememberme'
+                                    className='remember-me'
