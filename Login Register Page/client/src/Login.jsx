@@ -31,3 +31,4 @@ function Login() {
                         </div>
                         <div id='settings-create' className="d-flex justify-content-between align-items-center">
                             <div>
+                                <input
