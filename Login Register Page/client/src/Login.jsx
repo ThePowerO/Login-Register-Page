@@ -35,3 +35,4 @@ function Login() {
                                     type='checkbox'
                                     name='rememberme'
                                     className='remember-me'
+                                    checked={rememberMeChecked}
