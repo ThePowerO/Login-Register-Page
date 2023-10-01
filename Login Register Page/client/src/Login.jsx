@@ -16,3 +16,4 @@ function Login() {
     return (
         <div>
             <img className='image-bf' src={ImageBG} />
+                <div className='container'>
