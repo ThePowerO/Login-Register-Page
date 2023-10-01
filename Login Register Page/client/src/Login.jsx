@@ -20,3 +20,4 @@ function Login() {
                 <div className='container-box'>
                     <form className='form'>
                         <img className='logo-site' src={ImageL} />
+                        <h1>Login</h1>
