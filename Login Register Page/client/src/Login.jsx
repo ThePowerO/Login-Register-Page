@@ -27,3 +27,4 @@ function Login() {
                         </div>
                         <div className='input-box'>
                             <span className='icon'><i className="bi bi-key"></i></span>
+                            <input type="password" name='password' placeholder='Password' required />
