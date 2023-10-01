@@ -29,6 +29,7 @@ app.post('/register', (req, res) => {
     UsersModel.create(req.body)
     .then(users => res.json(users))
     .catch(error => res.json(error))
+})
 
 
          
