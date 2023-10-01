@@ -37,3 +37,19 @@ function Login() {
                                     className='remember-me'
                                     checked={rememberMeChecked}
                                 />
+                                    <span className='remember-me-span' onClick={toggleRememberMe}>
+                                        Remember me
+                                    </span>
+                            </div>
+                            <Link to='/register'> - Don't have an account?</Link>
+                        </div>
+                        <button className='btn btn-primary'>Login</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+        
+    );
+}
+
+export default Login;
