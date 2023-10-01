@@ -15,3 +15,4 @@ function Login() {
 
     return (
         <div>
+            <img className='image-bf' src={ImageBG} />
